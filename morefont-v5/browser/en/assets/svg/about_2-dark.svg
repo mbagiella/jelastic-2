@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1250 1250" style="enable-background:new 0 0 1250 1250;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.logo-eye{opacity:0; animation: hideshow 1s ease-in infinite;}
+	@keyframes hideshow {
+		0% { opacity: 0; }
+		100% { opacity: 1; }
+	} 
+</style>
+<rect y="0" class="st0" width="1250" height="1250"/>
+<path d="M625,317.4c-213.5,0-356.5,141.1-481.3,275l57.9,65.1c97.8-99,191-179.2,282.5-222.3c-43.5,32.8-70.8,80.2-70.8,131.8
+	c0,101.3,94.1,180.9,211.7,180.9c115.8,0,211.7-77.8,211.7-180.9c0-61.4-23.7-116.8-81.1-148.8c87.9,26.3,160.1,82.6,234.9,172.3
+	C903.7,731.8,778.8,820.4,625,820.4c-119.4,0-215.3-48.9-311.2-144.8l-63.3,56.1c101.3,105,202.6,172,374.5,172
+	c222.6,0,381.8-126.7,481.3-313C990.5,435,845.8,317.4,625,317.4z"/>
+<path class="st0 logo-eye" d="M565.3,634.1c-50.7,0-86.9-39.8-86.9-86.8h77.8v-77.8c50.7,0,86.8,38,86.8,86.8h-77.8L565.3,634.1L565.3,634.1z
+	"/>
+</svg>
